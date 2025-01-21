@@ -23,7 +23,7 @@ You must select one API from each of the following categories:
  * The Nationalize.io API (https://nationalize.io/): Predicts the nationality of a given name.
 ### Intermediate APIs (Choose One):
  * Open Trivia Database (https://opentdb.com/api_config.php): Offers trivia questions. Please note that you need to filter by category and only use "General Knowledge".
- *The Dog API (https://thedogapi.com/): Provides information and pictures of dog breeds.  
+ * The Dog API (https://thedogapi.com/): Provides information and pictures of dog breeds.  
 API Key - live_k3Sv4PyCpKq7F1KOsrBjSDenAsWoMMhcwEShEg2oJfYEbABHaEkGzLOjzTYlHCwi
 ### Advanced APIs (Choose One):
  * The MealDB API (https://www.themealdb.com/api.php): Provides a large database of recipes, including ingredients, instructions, and images.
